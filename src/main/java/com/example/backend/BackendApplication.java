@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BackendApplication {
 
 //	test
+// jira테스트
 	public static void main(String[] args) {
 		SpringApplication.run(BackendApplication.class, args);
 	}
